@@ -38,11 +38,12 @@ Logical circuit of the above expressions is given below:
 Figure 02  Encoder 8 * 3
 
 ### PROCEDURE:
-1.Type the program in Quartus software.
- 2.Compile and run the program.
- 3.Generate the RTL schematic and save the logic diagram.
- 4.Create nodes for inputs and outputs to generate the timing diagram.
- 5.For different input combinations generate the timing diagram.
+Type the program in Quartus software
+Compile and run the program.
+Generate the RTL schematic and save the logic diagram.
+Create nodes for inputs and outputs to generate the timing diagram.
+For different input combinations generate the timing diagram.
+
 ### PROGRAM:
 ![Screenshot 2024-12-26 104816](https://github.com/user-attachments/assets/25430261-b567-4649-9f75-dae7be957f4d)
 
