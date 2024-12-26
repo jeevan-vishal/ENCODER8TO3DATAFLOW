@@ -46,7 +46,7 @@ Figure 02  Encoder 8 * 3
 ### PROGRAM:
 ![Screenshot 2024-12-26 104816](https://github.com/user-attachments/assets/25430261-b567-4649-9f75-dae7be957f4d)
 
-### RTL LOGIC FOR ENCODER 8 TO 3 IN DATAFLOW MODE![Screenshot 2024-12-26 104816]
+### RTL LOGIC FOR ENCODER 8 TO 3 IN DATAFLOW MODELLING:
 ![Screenshot 2024-12-26 104249](https://github.com/user-attachments/assets/4290bef3-dc7e-4c0a-9ca6-332df268662e)
 
 
